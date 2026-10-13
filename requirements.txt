@@ -1,0 +1,20 @@
+# Python 3.13. Pin exact versions from the environment that produced the results with:
+#   pip freeze > requirements-lock.txt
+numpy
+pandas
+scipy
+scikit-learn
+imbalanced-learn
+xgboost
+lightgbm
+shap
+mlxtend
+skrebate
+Boruta
+BorutaShap
+mrmr-selection
+zoofs
+statsmodels
+matplotlib
+joblib
+pyarrow

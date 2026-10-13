@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the article and this software archive."
+title: "Stability Over Detection Performance: Benchmarking Thirty Feature-Selection Methods Across Four Healthcare-Security Datasets (code and results)"
+type: software
+version: "1.0.0"
+license: MIT
+authors:
+  - family-names: Majid
+    given-names: Muhammad
+    affiliation: "The Islamia University of Bahawalpur"
+  - family-names: Ali
+    given-names: Tenvir
+    affiliation: "The Islamia University of Bahawalpur"
+  - family-names: Ahmad
+    given-names: Jawwad
+    affiliation: "The Islamia University of Bahawalpur"
+  - family-names: Hussain
+    given-names: Shahid
+    affiliation: "The Islamia University of Bahawalpur"
+  - family-names: Choi
+    given-names: Gyu Sang
+    affiliation: "Yeungnam University"
+keywords:
+  - feature selection
+  - selection stability
+  - intrusion detection
+  - healthcare security
+  - benchmark

@@ -1,0 +1,9 @@
+# raw and processed data are not redistributed
+data/
+processed/
+*.parquet
+*.joblib
+# checkpoints and caches
+*checkpoint*.json
+.ipynb_checkpoints/
+__pycache__/
