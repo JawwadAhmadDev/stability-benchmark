@@ -2,7 +2,7 @@
 
 Code and aggregated results for:
 
-> M. Majid, T. Ali, J. Ahmad, S. Hussain, and G. S. Choi, "Stability Over Detection Performance: Benchmarking Thirty Feature-Selection Methods Across Four Healthcare-Security Datasets," submitted to *IEEE Access*, 2026.
+> M. Majid, T. Ali, J. Ahmad, and G. S. Choi, "Stability Over Detection Performance: Benchmarking Thirty Feature-Selection Methods Across Four Healthcare-Security Datasets," submitted to *IEEE Access*, 2026.
 
 <!-- After the Zenodo release, paste the DOI badge here, e.g. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
 
